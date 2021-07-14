@@ -1,0 +1,9 @@
+Header header
+string child_frame_id
+string id
+bool status
+geometry_msgs/Point position
+float64[9] position_cov
+float64 distance
+float64 distance_cov
+int16 RSS
