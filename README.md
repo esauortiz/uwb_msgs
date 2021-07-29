@@ -30,5 +30,5 @@ Where:
 * ```child_frame_id``` is the frame id placed in ```position``` in the frame_id frame
 * ```id``` is the anchor's identifier
 * ```status``` indicates whether the anchor is found in the network or not
-* ```position``` and ```position_cov``` are the anchor's ```position``` in the frame_id frame
+* ```position``` and ```position_cov``` are the anchor's position in the frame_id frame
 * ```distance``` and ```distance_cov``` are the anchor-tag distance
