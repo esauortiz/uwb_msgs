@@ -15,5 +15,3 @@ Information related to an anchor with the following structure:
 	float64 distance
 	float64 distance_cov
 	int16 RSS
-
-TODO: Description for each element of the message
