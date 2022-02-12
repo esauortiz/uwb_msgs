@@ -3,10 +3,17 @@
 This package includes UWB messages
 
 ## Installation
-Copy this repository:
+Copy this repository into your catkin workspace:
 
 ```bash
 git clone https://github.com/esauortiz/uwb_msgs.git
+```
+
+Build the package
+
+```bash
+cd ~/catkin_ws
+catkin_make
 ```
 
 ## Description
